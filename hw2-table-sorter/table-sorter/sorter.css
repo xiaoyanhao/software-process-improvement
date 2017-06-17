@@ -1,0 +1,41 @@
+body {
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+table {
+	text-align: left;
+	border-collapse: collapse;
+}
+
+th, td {
+	border: 1px solid gray;
+}
+
+
+thead {
+	background-color: #00008B;
+	color: white;
+	cursor: pointer;
+}
+
+.alternate {
+	background-color: #DCDCDC;
+}
+
+#staff {
+	width: 30%;
+}
+
+.ascend {
+	background: #C2C2E3 url("ascend.png") no-repeat right;
+	border-color: #C2C2E3;
+}
+
+.descend {
+	background: #C2C2E3 url("descend.png") no-repeat right;
+	border-color: #C2C2E3;
+}
+
+.initial {
+	background-color: #00008B;
+}
